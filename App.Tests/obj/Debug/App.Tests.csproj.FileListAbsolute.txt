@@ -1,0 +1,23 @@
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.abstractions.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.execution.desktop.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\App.Tests.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\App.Tests.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.assert.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.core.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.assert.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.assert.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.core.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.core.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\obj\Debug\App.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\obj\Debug\App.Tests.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\obj\Debug\App.Tests.pdb
+C:\Users\danii\OneDrive\AppTemplate\App.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\danii\OneDrive\AppTemplate\App.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\danii\OneDrive\AppTemplate\App.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\danii\OneDrive\AppTemplate\App.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\danii\OneDrive\AppTemplate\App.Tests\bin\Debug\App.Tests.dll
+C:\Users\danii\OneDrive\AppTemplate\App.Tests\bin\Debug\App.Tests.pdb
+C:\Users\danii\OneDrive\AppTemplate\App.Tests\obj\Debug\App.Tests.dll
+C:\Users\danii\OneDrive\AppTemplate\App.Tests\obj\Debug\App.Tests.pdb

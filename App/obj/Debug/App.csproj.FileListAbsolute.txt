@@ -1,0 +1,145 @@
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\App.dll.config
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\App.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\App.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Antlr3.Runtime.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\EntityFramework.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\EntityFramework.SqlServer.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Newtonsoft.Json.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.Helpers.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.Mvc.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.Optimization.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.Razor.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.WebPages.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.WebPages.Razor.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\WebGrease.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Antlr3.Runtime.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\EntityFramework.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\EntityFramework.SqlServer.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Newtonsoft.Json.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.Helpers.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.Mvc.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.Razor.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.WebPages.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.WebPages.Razor.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\System.Web.Optimization.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\obj\Debug\App.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\obj\Debug\App.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.ServiceLocation.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.Unity.Configuration.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.Unity.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.Unity.Mvc.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\WebActivatorEx.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.ServiceLocation.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.ServiceLocation.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.Unity.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.Unity.Configuration.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.Unity.Mvc.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\danii\OneDrive\AppTemplate\App\bin\App.dll.config
+C:\Users\danii\OneDrive\AppTemplate\App\bin\App.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\App.pdb
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Antlr3.Runtime.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\App.Entities.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\EntityFramework.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\EntityFramework.SqlServer.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.Unity.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.Helpers.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.Mvc.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.Optimization.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.Razor.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.WebPages.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.WebPages.Razor.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\WebActivatorEx.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\WebGrease.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\App.Entities.pdb
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Antlr3.Runtime.pdb
+C:\Users\danii\OneDrive\AppTemplate\App\bin\EntityFramework.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\EntityFramework.SqlServer.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.Unity.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.Helpers.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.Mvc.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.Razor.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.WebPages.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.WebPages.Razor.xml
+C:\Users\danii\OneDrive\AppTemplate\App\bin\System.Web.Optimization.xml
+C:\Users\danii\OneDrive\AppTemplate\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\danii\OneDrive\AppTemplate\App\obj\Debug\App.dll
+C:\Users\danii\OneDrive\AppTemplate\App\obj\Debug\App.pdb
+C:\Users\danii\OneDrive\AppTemplate\App\bin\App.BLL.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\App.DAL.dll
+C:\Users\danii\OneDrive\AppTemplate\App\bin\App.BLL.pdb
+C:\Users\danii\OneDrive\AppTemplate\App\bin\App.DAL.pdb
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\App.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\App.pdb
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Antlr3.Runtime.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\App.BLL.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\App.Entities.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\EntityFramework.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\EntityFramework.SqlServer.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.Unity.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.Helpers.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.Mvc.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.Optimization.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.Razor.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.WebPages.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\WebActivatorEx.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\WebGrease.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\App.DAL.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\App.BLL.pdb
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\App.Entities.pdb
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Antlr3.Runtime.pdb
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\EntityFramework.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\EntityFramework.SqlServer.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.Unity.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.Helpers.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.Mvc.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.Razor.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.WebPages.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\System.Web.Optimization.xml
+C:\Users\Rodo\Desktop\AppTemplate\App\bin\App.DAL.pdb
+C:\Users\Rodo\Desktop\AppTemplate\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Rodo\Desktop\AppTemplate\App\obj\Debug\App.dll
+C:\Users\Rodo\Desktop\AppTemplate\App\obj\Debug\App.pdb
